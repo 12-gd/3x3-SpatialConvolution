@@ -7,7 +7,7 @@ some examples (sharpen.mat,blur.mat,whatever.mat)
 
 ![Alt text](ref.jpg?raw=true "shaders ref pic")
 
-fulscreen(post effect) examples(fs_fx_Unsharp_Mask.mat,fs_fx_3x3filter_Sharpen.mat) 
+fullscreen(post effect) examples (fs_fx_Unsharp_Mask.mat,fs_fx_3x3filter_Sharpen.mat) 
 
 sharpen / original
 
